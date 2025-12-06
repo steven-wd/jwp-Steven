@@ -1,6 +1,7 @@
 ## Kelompok Pekerjaan 1
 
 - Melakukan instalasi software tools
+!(screenshots/todo-db.png)
 
 ## Kelompok Pekerjaan 2
 
